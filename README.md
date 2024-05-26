@@ -1,7 +1,7 @@
 # GéopolitiX 
  
 <p align="center">
-    <img src="ressources/images/logo-1.png" alt="geopolitix_logo">
+    <img src="ressources/logo.png" alt="geopolitix_logo">
 </p>
 <p align="center">
     <b>Analyse géostratégique du monde actuel</b>
